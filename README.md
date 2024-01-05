@@ -3,4 +3,4 @@ Uses pygame as the main engine.
 Still to be completed
 
 
-The main driver code is in newgame.py and the code for rendering brick is in bricks.py 
+The main driver code is in newgame.py and the code for rendering brick is in bricks.py , the code for updating player and puck are in perframe.py.
